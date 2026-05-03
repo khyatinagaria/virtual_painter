@@ -3,4 +3,4 @@ GestureAction
 ✌️ Index + middle upHover / Select (no drawing)
 ✌️ + move to toolbarChange color or pick eraser
 Fist / any other posePen lifted
-<img width="1808" height="976" alt="image" src="https://github.com/user-attachments/assets/78ad4ddd-68df-475b-a4e2-2e4f52f75367" />
+<img width="1841" height="679" alt="Screenshot 2026-05-03 161848" src="https://github.com/user-attachments/assets/8e2c2c01-35bf-4074-9cf1-a32921dd9c37" />
